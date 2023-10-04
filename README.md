@@ -1,3 +1,6 @@
+# Name: S.Tarun Managan
+# PRN: 22070123118
+
 # Inheritance
 The capability of a class to derive properties and characteristics from another class is called Inheritance. 
 Inheritance is one of the most important features of Object-Oriented Programming. 
